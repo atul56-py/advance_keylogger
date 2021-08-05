@@ -1,2 +1,3 @@
 # advance_keylogger 
-Its in process wait for my full magic
+Its only for education purpose.
+Use it on ur own risk.
